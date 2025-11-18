@@ -1,0 +1,11 @@
+-- [BRUTON HUB]--
+allowedUsers = {
+
+    ["SUKUNA_333857"]         = true, 
+    ["SUKUNA_333857"]     = true, 
+    ["SUKUNA_333857"]            = true, 
+    ["SUKUNA_333857"]          = true, 
+ 
+}
+
+return allowedUsers
